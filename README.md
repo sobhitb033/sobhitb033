@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+Making;Building+Cool+Things+with+Code;Learning+One+Bug+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Cool+Things+with+Code;Learning+One+Bug+at+a+Time" />
 </p>
 
 # Hi there 👋 I'm Sobhit
