@@ -1,11 +1,38 @@
-## Hi there 👋 I'm Sobhit
+```md
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+Making;Building+Cool+Things+with+Code;Learning+One+Bug+at+a+Time" />
+</p>
 
-🎓 MCA Student | VIT Vellore
+# Hi there 👋 I'm Sobhit
 
-🤖 Interested in AI & Machine Learning
+> Let's just say I know a guy who knows a guy... and that guy keeps asking me for more GPU memory.
 
-## 🛠️ Skills
+🎓 MCA Student @ VIT Vellore
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, and building products that solve real-world problems.
+
+⚡ Currently exploring the intersection of AI, software engineering, and intelligent automation.
+
+---
+
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,cpp,javascript,typescript,nextjs,git,github,linux,mysql,supabase," />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,cpp,javascript,typescript,nextjs,nodejs,git,github,linux,postgres,supabase,vscode" />
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- System Design
+- Docker & Deployment
+
+---
+
+⭐ Always learning, always building, always curious.
+```
