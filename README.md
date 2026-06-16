@@ -28,7 +28,6 @@
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
 - LangChain
-- System Design
 - Docker & Deployment
 
 ---
